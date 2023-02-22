@@ -1,5 +1,5 @@
 import "./HeroImgStyle.css"
-import introImg from "../assets/intro-bn.jpg"
+import introImg from "../assets/intro.jpg"
 import React from 'react'
 import { Link } from "react-router-dom"
 
